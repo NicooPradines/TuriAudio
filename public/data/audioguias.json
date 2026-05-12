@@ -1,0 +1,30 @@
+[
+  {
+    "id": 1,
+    "nombre": "Buenos Aires - Obelisco",
+    "pais": "Argentina",
+    "duracion": "45 min",
+    "precio": 500,
+    "imagen": "/images/obelisco.jpg",
+    "audio": "/audio/bsas.mp3"
+  },
+ {
+    "id": 2,
+    "nombre": "Argentina - Glaciar Perito Moreno",
+    "pais": "Argentina",
+    "duracion": "45 min",
+    "precio": 500,
+    "imagen": "/images/glaciar.jpg",
+    "audio": "/audio/glaciar.mp3"
+  },
+  {
+    "id": 3 ,
+    "nombre": "Buenos Aires - Cataratas del Iguazú",
+    "pais": "Argentina",
+    "duracion": "45 min",
+    "precio": 500,
+    "imagen": "/images/cataratas.jpg",
+    "audio": "/audio/cataratas.mp3"
+  }
+  ] 
+ 
