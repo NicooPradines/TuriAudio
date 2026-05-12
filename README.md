@@ -13,4 +13,4 @@ npm install
 npm run dev
 
 ## Deploy
-[link de netlify acá]
+https://turiaudio.netlify.app
