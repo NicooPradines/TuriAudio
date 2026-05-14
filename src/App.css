@@ -30,10 +30,12 @@
   width: 100%;
 }
 
-.bienvenida{
-  display: flex;
-  justify-content: center; 
-  align-items: center;     
-  height: 100vh;          
+.bienvenida{    
   text-align: center;    
+}
+
+.bienvenida p{
+
+margin-bottom: 20px;
+
 }
