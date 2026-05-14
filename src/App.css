@@ -29,3 +29,11 @@
   cursor: pointer;
   width: 100%;
 }
+
+.bienvenida{
+  display: flex;
+  justify-content: center; 
+  align-items: center;     
+  height: 100vh;          
+  text-align: center;    
+}
